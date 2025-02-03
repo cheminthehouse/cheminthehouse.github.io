@@ -1,4 +1,4 @@
-# Chem in the House
+# (Chem in the House)[https://github.com/cheminthehouse/cheminthehouse.github.io]
 
 ## How to Run
 
